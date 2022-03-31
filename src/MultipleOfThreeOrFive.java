@@ -1,3 +1,8 @@
+
+//This code takes any number one wishes to input and prints Fizz if it is a multiple of 3
+/// Prints FizzBuzz if it is a multiple of 5 and 3
+// Prints buzz if only a multiple of 3
+
 public class MultipleOfThreeOrFive {
     public static void main(String[] args) {
         isFactorOrNo(15);
